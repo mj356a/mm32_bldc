@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MM32_BLDC.PrjPcb]
+   Generated File[MM32_BLDC.TXT]
+   Generated File[MM32_BLDC.LDP]
+   Generated File[MM32_BLDC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:36:31 On 2022/8/30

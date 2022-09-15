@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SPDOUT_A12 Pin=GH1-1
+Added Pin To Net: NetName=PWM_A10 Pin=GH1-2
+Added Pin To Net: NetName=GND Pin=GH1-3
+Added Pin To Net: NetName=GND Pin=GH1-4
+Added Pin To Net: NetName=DIR_A9 Pin=GH1-6
+Added Pin To Net: NetName=DIROUT_D2 Pin=GH1-5
+Added Net: Name=DIROUT_D2
+Added Room: Name=MM32_BLDC
